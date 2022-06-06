@@ -12,7 +12,7 @@ html{
 body{
     cursor: url("../img/move.cur"), crosshair;
     counter-reset: score;
-    background-image: url("/img/Games_Duck_Hunt_Nintendo_Dendy_Nes_025749_9.jpg");
+    background-image: url("./img/Games_Duck_Hunt_Nintendo_Dendy_Nes_025749_9.jpg");
     background-repeat: no-repeat;
     min-height: 100%;
     background-size: cover;
@@ -35,7 +35,7 @@ body{
 .duck label{
     width: 100%;
     height: 100%;
-    background-image: url(/img/duck_hunt_bird_big2.gif);
+    background-image: url(./img/duck_hunt_bird_big2.gif);
     background-repeat: no-repeat;
     display: inline-block;
     cursor: url("../img/move.cur"), crosshair;
